@@ -1,5 +1,7 @@
-# artifacts/cache/
-# *.parquet
+artifacts/cache/
+artifacts/forecasts/
+artifacts/runtime_logs/
+*.parquet
 *.pyc
 __pycache__/
 .pytest_cache/
